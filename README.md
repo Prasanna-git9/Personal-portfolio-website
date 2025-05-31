@@ -2,7 +2,7 @@
 
 A modern, fully responsive personal portfolio website with neon aesthetics, built with HTML, CSS, and JavaScript.
 
-![Portfolio Screenshot](./images/portfolio-screenshot.png) *(Add your own screenshot)*
+![Portfolio Screenshot](./images/portfolio-screenshot.png) 
 
 ## Features ✨
 
